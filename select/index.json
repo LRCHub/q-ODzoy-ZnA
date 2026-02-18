@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Come on baby!",
+  "base_artist": "She is Legend",
+  "createdAt": "2026-02-18T12:51:44.851519Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Come On Baby",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/01_Come_On_Baby_Moby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come On Baby",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/02_Come_On_Baby_Moby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Come On Baby Let's Go Downtown",
+      "artist": "Neil Young",
+      "has_synced": false,
+      "path": "select/03_Come_On_Baby_Let's_Go_Downtown_Neil_Young.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come On Baby (Never Forget)",
+      "artist": "Fleetwood Mac",
+      "has_synced": true,
+      "path": "select/04_Come_On_Baby_(Never_Forget)_Fleetwood_Mac.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Come On baby",
+      "artist": "Billie The Vision & The Dancers",
+      "has_synced": true,
+      "path": "select/05_Come_On_baby_Billie_The_Vision_&_The_Dancers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come On Baby",
+      "artist": "Billie The Vision And The Dancers",
+      "has_synced": true,
+      "path": "select/06_Come_On_Baby_Billie_The_Vision_And_The_Dancers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come On Baby",
+      "artist": "Chumbawamba",
+      "has_synced": false,
+      "path": "select/07_Come_On_Baby_Chumbawamba.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "(Come On Baby)Let the Good Times Roll",
+      "artist": "Big Brother & The Holding Company",
+      "has_synced": false,
+      "path": "select/08_(Come_On_Baby)Let_the_Good_Times_Roll_Big_Brother_&_The_Holding_Company.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "(Come On Baby) Let The Good Times Roll",
+      "artist": "Janis Joplin",
+      "has_synced": false,
+      "path": "select/09_(Come_On_Baby)_Let_The_Good_Times_Roll_Janis_Joplin.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come On Baby (Shift That Log)",
+      "artist": "Cat Stevens",
+      "has_synced": false,
+      "path": "select/10_Come_On_Baby_(Shift_That_Log)_Cat_Stevens.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come on Baby",
+      "artist": "Catbite",
+      "has_synced": true,
+      "path": "select/11_Come_on_Baby_Catbite.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come on Baby",
+      "artist": "Catbite",
+      "has_synced": false,
+      "path": "select/12_Come_on_Baby_Catbite.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come On Baby",
+      "artist": "Fastway",
+      "has_synced": true,
+      "path": "select/13_Come_On_Baby_Fastway.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come On Baby Let's Go Downtown - Live",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/14_Come_On_Baby_Let's_Go_Downtown_-_Live_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Come on baby!",
+      "artist": "She is Legend",
+      "has_synced": false,
+      "path": "select/pl_01_Come_on_baby!_She_is_Legend.txt"
+    }
+  ]
+}
